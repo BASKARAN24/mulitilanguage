@@ -1,0 +1,7 @@
+mysql-connector-python
+sentence-transformers
+numpy
+openai
+flask
+python-dotenv
+langdetect
